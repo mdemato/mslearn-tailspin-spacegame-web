@@ -1,4 +1,6 @@
 
+[![Build Status](https://dev.azure.com/TS-DCO-demo/Space%20Game%202/_apis/build/status/mslearn-tailspin-spacegame-web?branchName=master)](https://dev.azure.com/TS-DCO-demo/Space%20Game%202/_build/latest?definitionId=7&branchName=master)
+
 # Contributing
 
 This project welcomes contributions and suggestions.  Most contributions require you to agree to a
